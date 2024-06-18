@@ -1,0 +1,12 @@
+{
+	"name": "image-compressor",
+	"version": "0.1.0",
+	"license": "MIT",
+	"dependencies": {
+		"rimraf": "5.0.7",
+		"sharp": "0.33.4"
+	},
+	"devDependencies": {
+		"prettier": "3.3.2"
+	}
+}
