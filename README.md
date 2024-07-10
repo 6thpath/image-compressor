@@ -22,6 +22,6 @@ make clean
 
 ## Libs
 
-- [NodeJS](https://nodejs.org/)
-- [Sharp](https://sharp.pixelplumbing.com/)
+- [sharp](https://sharp.pixelplumbing.com/)
 - [rimraf](https://github.com/isaacs/rimraf)
+- [chalk](https://github.com/chalk/chalk)

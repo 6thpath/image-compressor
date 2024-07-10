@@ -3,7 +3,7 @@ install:
 	yarn add sharp --ignore-engines --exact
 
 compress:
-	node index.js
+	yarn ts-node index.ts
 
 clean:
 	yarn rimraf output/*

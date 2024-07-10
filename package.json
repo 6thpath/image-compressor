@@ -7,6 +7,11 @@
 		"sharp": "0.33.4"
 	},
 	"devDependencies": {
-		"prettier": "3.3.2"
+		"@types/node": "20.14.10",
+		"chalk": "4",
+		"prettier": "3.3.2",
+		"ts-node": "10.9.2",
+		"tslib": "2.6.3",
+		"typescript": "5.5.3"
 	}
 }
